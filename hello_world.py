@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-for i in range(0, 50):
+for i in range(0, 10):
     print("No copiare en clase de Programacio")
     
     
